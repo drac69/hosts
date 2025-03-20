@@ -450,7 +450,6 @@ snap.licdn.com
 soft.specialcraftbox.com
 sommelier.futurehybrid.tech
 spade.twitch.tv
-spectrum.ieee.org
 spl.hit.gemius.pl
 spoor-api.ft.com
 srtb.msn.com
